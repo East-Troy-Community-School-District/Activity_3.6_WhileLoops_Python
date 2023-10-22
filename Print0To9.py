@@ -1,7 +1,8 @@
 '''
 Print 0 To 9
-1/16/2023
-Python I
+Pawelski
+10/22/2023
+Introduction to Computer Science
 
 Instructions:
 Trace the program and predict what it will display. Then, run

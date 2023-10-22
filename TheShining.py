@@ -1,7 +1,8 @@
 '''
 The Shining
-1/16/2023
-Python I
+Pawelski
+10/22/2023
+Introduction to Computer Science
 
 Instructions:
 Trace the program and predict what it will display. Then run
@@ -14,8 +15,6 @@ the following questions...
 4. If you want the loop control variable be printed to the
    console, how would you do it? When might you want to print
    the loop control variable to the console?
-5. Is there another way to write line 24 using an augmented assignment
-   operator?
 '''
 
 i = 0

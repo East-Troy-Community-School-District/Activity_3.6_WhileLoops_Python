@@ -1,7 +1,8 @@
 '''
 Repeatable Bigger Number
-1/16/2023
-Python I
+Pawelski
+10/22/2023
+Introduction to Computer Science
 
 Instructions:
 Trace the program and predict what it will display.
@@ -16,7 +17,6 @@ prepared to discuss the following questions...
    print()
 
 4. What does the user need to enter for the program or loop to repeat?
-
 '''
 
 repeat = "Y"

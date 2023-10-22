@@ -1,7 +1,8 @@
 '''
 Sum Numbers
-1/16/2023
-Python I
+Pawelski
+10/22/2023
+Introduction to Computer Science
 
 Instructions:
 Trace the program and predict what it will display. Then run the
@@ -16,7 +17,6 @@ following questions...
    An accumulator variable is a variable that is used to calculate
    a sum or product of a series of values. In this program, it
    finds the sum of all the numbers entered by the user.
-4. Is there another way to write line 27?
 '''
 
 total = 0
